@@ -1,0 +1,32 @@
+#Heading {
+    text-align: center;
+    color: #123456;
+  }
+  .quote {
+    text-align: center;
+  }
+  .currentQuote {
+    font-size: 2em;
+  }
+  .footer,
+  h6 {
+    color: Blue;
+  }
+  #author {
+    font-size: 1em;
+  }
+  .fa-github {
+    color: #333;
+  }
+  .fa-linkedin {
+    color: #069;
+  }
+  .fa-twitter {
+    color: #55acee;
+  }
+  @media only screen and (max-width: 500px) {
+    .currentQuote {
+      font-size: 1em;
+    }
+  }
+  
